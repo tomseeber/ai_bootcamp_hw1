@@ -14,3 +14,6 @@ This is the AI Bootcamp Homework 1
 ### More stufff 
 
 More testing of git..  Because git it the best. 
+
+
+new change of the readme file 
